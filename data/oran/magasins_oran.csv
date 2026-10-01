@@ -1,0 +1,4 @@
+Code_magasin;Nom_magasin;Ville;Wilaya;Adresse;Type_magasin;Surface_m2;Date_ouverture;Statut
+ORAN-CENTER;Carrefour Oran Centre;Oran;Oran;Boulevard de l’Indépendance;SUPERMARKET;1600;20/03/2019;ACTIF
+ORAN-AKID;Akid Lotfi Supermarché;Oran;Oran;Cité Akid Lotfi;SUPERMARKET;1200;10/09/2020;ACTIF
+ORAN-ESPOIR;Express Es-Sénia;Oran;Oran;Route Es Sénia;EXPRESS;800;05/01/2022;ACTIF
