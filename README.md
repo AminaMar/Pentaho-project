@@ -150,7 +150,7 @@ The model follows a **star schema**.
 ## 👩‍💻 Authors
 
 - **Amina Meroua BOUHMIDI** ([@AminaMar](https://github.com/AminaMar))
-- **Nabila Nour Elhouda LABANI**
+- **Nabila Nour Elhouda LABANI** ([@labaninabila193-code](https://github.com/labaninabila193-code))
 
 Supervisor: **Dr. Moulay Tahar**
 Faculty of Mathematics, Computer Science and Telecommunications, Department of Computer Science, Saïda University
